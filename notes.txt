@@ -1,0 +1,12 @@
+Creature specs:
+- Speed: idk we'll fine something for this
+- Health: How much a creature can take from food fighting back
+- Energy: Amount of food a creature can get. If at zero the creature dies
+- Strength: Attack strength of creature, dictates whether creature will be able to kill food
+- Efficiency: Dictates how much energy is used when hunting for food
+- RepoChance: Chance that a creature will duplicate
+- Lifetime: Value that increases health removed over time to force new generation
+
+Food specs:
+- Health: Amount of damage a food can take
+- Strength: Amount of damaage a food can gives
