@@ -1,5 +1,5 @@
 Creature specs:
-- Speed: idk we'll fine something for this
+- Speed: idk we'll find something for this
 - Health: How much a creature can take from food fighting back
 - Energy: Amount of food a creature can get. If at zero the creature dies
 - Strength: Attack strength of creature, dictates whether creature will be able to kill food
